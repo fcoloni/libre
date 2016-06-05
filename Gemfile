@@ -25,6 +25,17 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 # fabio Gens
 
+gem 'simple_form'
+gem 'devise'
+
+gem 'mercadolibre', '~> 0.8.1'
+
+
+gem 'bootstrap-sass', '~> 3.3.6'
+
+
+
+
 
 
 

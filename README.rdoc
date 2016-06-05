@@ -53,3 +53,6 @@ Parsing documentation for mercadolibre-0.8.7
 Installing ri documentation for mercadolibre-0.8.7
 Done installing documentation for netrc, mime-types, unf_ext, unf, domain_name, http-cookie, rest-client, mercadolibre after 8 seconds
 
+
+Gem SimpleForm and Devise
+
