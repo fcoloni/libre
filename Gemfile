@@ -28,8 +28,6 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'simple_form'
 gem 'devise'
 
-gem 'mercadolibre'
-
 
 gem 'bootstrap-sass', '~> 3.3.6'
 
