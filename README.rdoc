@@ -1,28 +1,55 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+App with mercadolibre integration.
+List all products end select 10 to indexpage
 
-Things you may want to cover:
 
 * Ruby version
+
+-> Rails 4.2.6
+
+* RVM
+
+-> .rvm/gems/ruby-2.3.0@mercado
 
 * System dependencies
 
 * Configuration
+ 
+gem install mercadolibre
 
-* Database creation
+Fetching: netrc-0.11.0.gem (100%)
+Successfully installed netrc-0.11.0
+Fetching: mime-types-2.99.2.gem (100%)
+Successfully installed mime-types-2.99.2
+Fetching: unf_ext-0.0.7.2.gem (100%)
+Building native extensions.  This could take a while...
+Successfully installed unf_ext-0.0.7.2
+Fetching: unf-0.1.4.gem (100%)
+Successfully installed unf-0.1.4
+Fetching: domain_name-0.5.20160310.gem (100%)
+Successfully installed domain_name-0.5.20160310
+Fetching: http-cookie-1.0.2.gem (100%)
+Successfully installed http-cookie-1.0.2
+Fetching: rest-client-1.8.0.gem (100%)
+Successfully installed rest-client-1.8.0
+Fetching: mercadolibre-0.8.7.gem (100%)
+Successfully installed mercadolibre-0.8.7
+Parsing documentation for netrc-0.11.0
+Installing ri documentation for netrc-0.11.0
+Parsing documentation for mime-types-2.99.2
+Installing ri documentation for mime-types-2.99.2
+Parsing documentation for unf_ext-0.0.7.2
+Installing ri documentation for unf_ext-0.0.7.2
+Parsing documentation for unf-0.1.4
+Installing ri documentation for unf-0.1.4
+Parsing documentation for domain_name-0.5.20160310
+Installing ri documentation for domain_name-0.5.20160310
+Parsing documentation for http-cookie-1.0.2
+Installing ri documentation for http-cookie-1.0.2
+Parsing documentation for rest-client-1.8.0
+Installing ri documentation for rest-client-1.8.0
+Parsing documentation for mercadolibre-0.8.7
+Installing ri documentation for mercadolibre-0.8.7
+Done installing documentation for netrc, mime-types, unf_ext, unf, domain_name, http-cookie, rest-client, mercadolibre after 8 seconds
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
